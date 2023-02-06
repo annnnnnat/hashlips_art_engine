@@ -7,7 +7,7 @@ const network = NETWORK.eth;
 // General metadata for Ethereum
 const namePrefix = "BFG Mystery Box";
 const description = "Mystery Box for Genesis NFT";
-const baseUri = "ipfs://NewUriToReplace";
+const baseUri = "ipfs://QmaXkmxgHDMq57r3j1RYn4fnyKuMFpLbU9JxUFMDE7XmPL";
 
 const layerConfigurations = [
   {
