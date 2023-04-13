@@ -19,6 +19,7 @@ const layerConfigurations = [
       { name: "Leg" },
       { name: "Hand" },
       { name: "Body" },
+      { name: "Modifier"}
     ],
   },
 ];
